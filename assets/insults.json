@@ -38,5 +38,45 @@
     {
       "insult": "Out, you green-sickness carrion! Out, you baggage! You tallow-face!",
       "play": "Romeo and Juliet"
+    },
+    {
+        "insult": "Thou art a boil, a plague sore, an embossed carbuncle.",
+        "play": "King Lear"
+    },
+    {
+        "insult": "More of your conversation would infect my brain.",
+        "play": "Coriolanus"
+    },
+    {
+        "insult": "I do desire we may be better strangers.",
+        "play": "As You Like It"
+    },
+    {
+        "insult": "Thou art unfit for any place but hell.",
+        "play": "Richard III"
+    },
+    {
+        "insult": "Thy tongue outvenoms all the worms of Nile.",
+        "play": "Cymbeline"
+    },
+    {
+        "insult": "Thou art like a toad; ugly and venomous.",
+        "play": "As You Like It"
+    },
+    {
+        "insult": "There's no more faith in thee than in a stewed prune.",
+        "play": "Henry IV, Part 1"
+    },
+    {
+        "insult": "Your brain is as dry as the remainder biscuit after a voyage.",
+        "play": "As You Like It"
+    },
+    {
+        "insult": "Thou art a flesh-monger, a fool and a coward.",
+        "play": "Measure for Measure"
+    },
+    {
+        "insult": "I scorn you, scurvy companion.",
+        "play": "Henry IV, Part 2"
     }
   ]
